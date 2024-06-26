@@ -1,4 +1,4 @@
-name: Проверка
+name: Checker
 on: [push]
 jobs:
   linter:
